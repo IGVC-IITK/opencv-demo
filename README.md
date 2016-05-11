@@ -48,7 +48,7 @@ The .cpp files made during the demonstration can be compiled using
 
 # Contact
 
-In case of problems during the setup, you can contact us at *lakshayg373@gmail.com*
+In case of problems during the setup, you can contact us at *lakshayg@iitk.ac.in*
 
 
 # __too long; didn't read__
@@ -56,5 +56,5 @@ When attending the demonstration try to:
 
 * Bring a laptop with OpenCV installed
 * Bring a distinctly colored object
-* In case of any problems, contact *lakshayg373@gmail.com*
+* In case of any problems, contact *lakshayg@iitk.ac.in*
 * Do attend even if you are not able to arrange for these items
