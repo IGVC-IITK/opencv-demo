@@ -19,7 +19,7 @@ Run the command corresponding to your OS in the terminal
 * __Ubuntu, Linux Mint, Debian__: `$ sudo apt-get install libopencv-dev`
 * __Arch__: `$ sudo pacman -S opencv`
 * __Windows__:
-    * Install the trial version of Ceemple IDE from [https://www.ceemple.com/getceemple/](https://www.ceemple.com/getceemple/) *(preferred)*
+    * ~~Install the trial version of Ceemple IDE from [https://www.ceemple.com/getceemple/](https://www.ceemple.com/getceemple/) *(preferred)*~~ Seems like the Ceemple IDE is no longer available
     * OR Install OpenCV from [http://opencv.org/downloads.html](http://opencv.org/downloads.html) and configure it for any IDE of your choice
         * [Visual Studio](https://www.youtube.com/watch?v=e_TQ9c3n_d8)
         * [Code::Blocks](https://zahidhasan.wordpress.com/2013/02/16/how-to-install-opencv-on-windows-7-64bit-using-mingw-64-and-codeblocks/)
