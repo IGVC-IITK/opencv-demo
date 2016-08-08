@@ -13,7 +13,9 @@ press 'T', to exit the program press 'Q'.
 
 ![Object tracking demo](demo/color-tracking/color-track.png)
 
-**[new]** See a demo video [here](demo/color-tracking/video.mp4)
+>
+> **[new]** See a demo video [here](demo/color-tracking/video.mp4)
+>
 
 # Installing OpenCV
 Run the command corresponding to your OS in the terminal
