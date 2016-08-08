@@ -11,7 +11,9 @@ The code written during the demonstration has been uploaded
 in the repository. The code tracks green objects by default. To begin tracking
 press 'T', to exit the program press 'Q'.
 
-![Object tracking demo](demo/color-track.png)
+![Object tracking demo](demo/color-tracking/color-track.png)
+
+**[new]** See a demo video [here](demo/color-tracking/video.mp4)
 
 # Installing OpenCV
 Run the command corresponding to your OS in the terminal
