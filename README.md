@@ -13,9 +13,9 @@ press 'T', to exit the program press 'Q'.
 
 ![Object tracking demo](demo/color-tracking/color-track.png)
 
->
-> **[new]** See a demo video [here](demo/color-tracking/video.mp4)
->
+
+### **[new]** See a demo video [here](demo/color-tracking/video.mp4)
+
 
 # Installing OpenCV
 Run the command corresponding to your OS in the terminal
@@ -40,13 +40,13 @@ $ make
 ```
 ### Windows:
 * Download the repository by clicking on this link [https://github.com/lakshayg/opencv-demo/archive/master.zip](https://github.com/lakshayg/opencv-demo/archive/master.zip)
-* Extract the zip archive and open the file test.cpp in the folder test in any IDE
+* Extract the zip archive and open the file `test.cpp` in the folder `test` in any IDE
 * Compile and run using your IDE to check if OpenCV is installed correctly
 
 If you see a window showing the webcam output then you have successfully installed OpenCV.
 Press 'x' to exit.
 # Compiling
-The .cpp files made during the demonstration can be compiled using
+The `.cpp` files made during the demonstration can be compiled using
 
 ```$ g++ file.cpp -o file `pkg-config opencv --libs` ```
 
